@@ -1,3 +1,4 @@
 1.Gitの練習
 
-2.add comment
+git add
+git commit
